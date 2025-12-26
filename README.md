@@ -23,6 +23,8 @@ This version (v1.0) emphasizes clarity, modularity, and correctness, making it e
 - NumPy
 
 ## Project Structure
+
+```text
 AI SCRIPT2VIDEO/
 │
 ├── app.py                   # Streamlit application entry point
@@ -49,7 +51,7 @@ AI SCRIPT2VIDEO/
 │
 ├── screenshots/             # Application screenshots
 └── venv/                    # Virtual environment (ignored in Git)
-
+```
 
 ## Screenshots
 
