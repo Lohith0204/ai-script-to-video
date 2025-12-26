@@ -62,8 +62,6 @@ AI SCRIPT2VIDEO/
 ### Video Output
 ![Video Output](<screenshots/Screenshot 2025-12-26 103644.png>)
 
-## Live Video Demo
-<video controls src="output/final_video.mp4" title="Live Video Demo"></video>
 
 ## How It Works
 1. The user provides a text script through the application interface.
