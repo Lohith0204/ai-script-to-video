@@ -1,29 +1,18 @@
-# ===============================
-# Python cache & compiled files
-# ===============================
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# ===============================
 # Virtual environment
-# ===============================
 venv/
+.env/
 
-# ===============================
-# OS generated files
-# ===============================
+# Generated outputs
+assets/audio/*.mp3
+assets/images/*.png
+output/*.mp4
+
+# OS
 .DS_Store
 Thumbs.db
-
-# ===============================
-# IDE / Editor settings
-# ===============================
-.vscode/
-.idea/
-
-# ===============================
-# Logs (if any)
-# ===============================
-*.log
