@@ -1,5 +1,10 @@
 # AI Script to Video Generator (v1.0)
 
+## Live Demo
+Try out the deployed application here:
+
+🚀 **Streamlit App** → https://ai-script-to-video-wcmu4cdjfdyj3vjhbze6hv.streamlit.app/
+
 ## Overview
 AI Script2Video is a Python-based application that converts a text script into a video by generating audio narration and corresponding visual frames, then combining them into a final video output.
 The project focuses on building a simple, modular, and extensible pipeline for script-based video generation without training custom AI models.
